@@ -1,0 +1,32 @@
+G:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.exe
+G:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.pdb
+G:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.xml
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\_7.Sumar.Form1.resources
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\_7.Sumar.Resources.resources
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.vbproj.GenerateResource.Cache
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.exe
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.xml
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.pdb
+F:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.exe
+F:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.xml
+F:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.pdb
+E:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.exe
+E:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.xml
+E:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.pdb
+E:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.exe
+E:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.pdb
+E:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.xml
+E:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\_7.Sumar.Form1.resources
+E:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\_7.Sumar.Resources.resources
+E:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.vbproj.GenerateResource.Cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.pdb
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\bin\Release\7. Sumar.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.vbprojAssemblyReference.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\_7.Sumar.Form1.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\_7.Sumar.Resources.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.vbproj.GenerateResource.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.vbproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Release\7. Sumar.pdb

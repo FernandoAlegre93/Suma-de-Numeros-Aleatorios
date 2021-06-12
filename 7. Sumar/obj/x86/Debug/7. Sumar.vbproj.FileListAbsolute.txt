@@ -1,0 +1,28 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\bin\Debug\_7.Sumar.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\bin\Debug\_7.Sumar.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\bin\Debug\_7.Sumar.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\obj\x86\Debug\_7.Sumar.Form1.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\obj\x86\Debug\_7.Sumar.Resources.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\obj\x86\Debug\7. Sumar.vbproj.GenerateResource.Cache
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\obj\x86\Debug\_7.Sumar.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\obj\x86\Debug\_7.Sumar.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\7. Sumar\obj\x86\Debug\_7.Sumar.pdb
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\_7.Sumar.Form1.resources
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\_7.Sumar.Resources.resources
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.vbproj.GenerateResource.Cache
+G:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Debug\7. Sumar.exe
+G:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Debug\7. Sumar.pdb
+G:\Ejercicios EDI\7. Sumar\7. Sumar\bin\Debug\7. Sumar.xml
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.exe
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.xml
+G:\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.pdb
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\bin\Debug\7. Sumar.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\bin\Debug\7. Sumar.pdb
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\bin\Debug\7. Sumar.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\_7.Sumar.Form1.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\_7.Sumar.Resources.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.vbproj.GenerateResource.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.vbproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\7. Sumar\7. Sumar\obj\x86\Debug\7. Sumar.pdb
